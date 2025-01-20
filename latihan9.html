@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Belajar HTML sederhana</title>
+  </head>
+  <body>
+    <style type="text/css">
+      .class {
+        color: red;
+      }
+      .blue {
+        color: blue;
+      }
+    </style>
+
+    <h1 id="atas" class="class">Latihan 9</h1>
+    
+    <ul>
+        <li><a href="latihan1.html">home</a></li>
+        <li><a href="#bag1">bagian 1</a></li>
+        <li><a href="#bag2">bagian 2</a></li>
+        <li><a href="#bag3">bagian 3</a></li>
+      </ul>
+    
+    <br /><br />
+    <marquee behavior="" direction=""
+      >SELAMAT DATANG DI BELAJAR CLASS & ID SEMOGA DAPAT DI PAHAMI !!!</marquee
+    ><br /><br />
+    <p class="class"><strong>MEMAHAMI CLASS & ID :</strong></p>
+    <p>
+        <dl>
+            <dt><strong>Class :</strong></dt>
+            <dd>
+                <ul>
+                    <li>Class adalah atribut yang dapat digunakan pada banyak elemen.</li>
+                    <li>Fungsinya adalah untuk memberikan gaya atau mengelompokkan elemen-elemen dengan atribut yang sama.</li>
+                    <li>Dalam HTML, class ditulis dengan sintaks class="nama-class".</li>
+                    <li>Dalam CSS, selector untuk class diawali dengan tanda titik (.).</li>
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt><strong>ID :</strong></dt>
+            <dd>
+                <ul>
+                    <li>Id adalah atribut yang bersifat unik, artinya hanya boleh digunakan untuk satu elemen dalam satu halaman HTML.</li>
+                    <li>Fungsinya adalah untuk memberikan gaya spesifik pada elemen tertentu atau mengidentifikasi elemen secara khusus.</li>
+                    <li>Dalam HTML, id ditulis dengan sintaks id="nama-id".</li>
+                    <li>Dalam CSS, selector untuk id diawali dengan tanda pagar (#).</li>
+                </ul>
+            </dd>
+        </dl>
+    </p>
+    <fieldset><!--ini adalah pengurung-->
+    <p class="blue">nama saya mufrodi</p>
+    <p class="blue">usia saya sekarang 22 tahun</p>
+    <p class="blue">setatus saya adalah sebagai mahasiswa</p>
+    </fieldset>    
+    <br />
+    <p>
+<!--label di gunakan untuk memberikan label / keterangan pada elemen formulir seperti input teks,-->
+<!--Atribut for pada tag <label> menghubungkan label dengan elemen input menggunakan nilai id elemen input.
+  Contohnya, <label for="nama"> dihubungkan dengan <input id="nama">.-->
+<!--
+Cara kerja:
+    Ketika pengguna mengklik teks pada <label>, fokus akan otomatis pindah ke elemen input yang terkait.
+    Atribut for harus memiliki nilai yang sama dengan atribut id elemen input.-->        
+      <label for="nisn">nisen :</label>
+      <input id="nisn" type="text" placeholder="isi nisn anda" />
+    </p>
+    <p>
+      <label for="nama">nama :</label>
+      <input id="nama" type="text" placeholder="isi nama anad" />
+    </p>
+    <br />
+    <h4 class="class">di bawah ini contoh pengimplentasian dari id menggunakan link :</h4>
+
+    <p id="bag1">
+      <strong class="class">Bagian 1</strong><br /><br />
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa officia
+      debitis error qui, cupiditate reprehenderit, cum, id eaque laborum rem
+      provident. Odio reprehenderit, placeat consequuntur itaque harum vel rem
+      corrupti! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa
+      officia debitis error qui, cupiditate reprehenderit, cum, id eaque laborum
+      rem provident. Odio reprehenderit, placeat consequuntur itaque harum vel
+      rem corrupti!
+    </p>
+    <a href="#atas">halaman utama</a>
+    <br /><br /><br />
+    <p id="bag2">
+      <strong class="class">Bagian 2</strong><br /><br />
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa officia
+      debitis error qui, cupiditate reprehenderit, cum, id eaque laborum rem
+      provident. Odio reprehenderit, placeat consequuntur itaque harum vel rem
+      corrupti! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa
+      officia debitis error qui, cupiditate reprehenderit, cum, id eaque laborum
+      rem provident. Odio reprehenderit, placeat consequuntur itaque harum vel
+      rem corrupti!
+    </p>
+    <a href="#atas">halaman utama</a>
+    <br /><br /><br />
+    <p id="bag3">
+      <strong class="class">Bagian 3</strong><br /><br />
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa officia
+      debitis error qui, cupiditate reprehenderit, cum, id eaque laborum rem
+      provident. Odio reprehenderit, placeat consequuntur itaque harum vel rem
+      corrupti! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa
+      officia debitis error qui, cupiditate reprehenderit, cum, id eaque laborum
+      rem provident. Odio reprehenderit, placeat consequuntur itaque harum vel
+      rem corrupti!
+    </p>
+    <a href="#atas">halaman utama</a><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  </body>
+</html>
