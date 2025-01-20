@@ -1,0 +1,20 @@
+# Ignore system files and directories
+.bash_history
+.gitconfig
+.vscode/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.*
+

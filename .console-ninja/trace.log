@@ -1,0 +1,332 @@
+01:36:34.705 info extension stopping host
+01:36:35.289 info host ------------ starting ------------
+01:36:35.389 info extension host process output: port:[49636]
+01:36:35.390 info extension 
+01:36:35.450 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 49636 }
+01:36:35.572 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.37.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1727980594734}
+01:36:35.605 info host starting tools discovery and integration
+01:36:35.606 info host creating C:\Users\MyBook Hype AMD\.console-ninja\.bin
+01:36:35.613 info host installing C:\Users\MyBook Hype AMD\.console-ninja\.bin\loader.js
+01:36:35.617 info host installing C:\Users\MyBook Hype AMD\.console-ninja\.bin\console-ninja.ps1
+01:36:35.621 info host installing C:\Users\MyBook Hype AMD\.console-ninja\.bin\console-ninja.cmd
+01:36:35.623 info host installing PATH C:\Users\MyBook Hype AMD\.console-ninja\.bin
+01:36:35.697 info host worker Starting Host Worker...
+01:36:45.134 info host looking for tools to patch
+01:36:45.155 info host found 0 tool file(s) to patch
+01:36:45.172 info host completed tools discovery and integration
+01:41:36.122 info extension stopping host
+01:41:36.154 info host removing cache folder: 08c0d8819a32b9dfd9b5de81b6f39a36
+01:41:36.253 info extension client disconnected: 1006 
+01:55:07.218 info extension stopping host
+02:02:59.880 info extension stopping host
+02:04:32.318 info extension stopping host
+02:05:28.654 info extension stopping host
+02:06:40.945 info extension stopping host
+02:08:26.756 info extension stopping host
+02:08:30.494 info extension stopping host
+02:08:30.993 info host ------------ starting ------------
+02:08:31.039 info extension host process output: port:[62347]
+02:08:31.039 info extension 
+02:08:31.075 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62347 }
+02:08:31.213 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.37.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1727982510499}
+02:08:31.259 info host starting tools discovery and integration
+02:08:31.317 info host worker Starting Host Worker...
+02:08:31.321 info host looking for tools to patch
+02:08:31.335 info host found 0 tool file(s) to patch
+02:08:31.354 info host completed tools discovery and integration
+02:09:12.738 info extension stopping host
+02:09:45.799 info host ------------ starting ------------
+02:09:45.821 info host removing cache folder: 7ec525f139ba096ce2c1c41d5e24c691
+02:09:45.845 info extension host process output: port:[62347]
+02:09:45.846 info extension 
+02:09:45.867 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62347 }
+02:09:46.106 info host worker Starting Host Worker...
+02:10:45.849 info host removing cache folder: 068581c1a2f5c93ad99d2711098cad96
+02:40:46.016 info extension stopping host
+02:40:46.106 info host client disconnected: extension 1006
+02:40:46.107 info host client disconnected: extension { id: 1, clientType: 'extension' }
+00:48:58.952 info extension stopping host
+00:48:59.517 info host ------------ starting ------------
+00:48:59.600 info extension host process output: port:[62347]
+00:48:59.600 info extension 
+00:48:59.642 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 62347 }
+00:48:59.776 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.37.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1728150538959}
+00:48:59.813 info host starting tools discovery and integration
+00:48:59.870 info host worker Starting Host Worker...
+00:48:59.888 info host looking for tools to patch
+00:48:59.910 info host found 0 tool file(s) to patch
+00:48:59.920 info host completed tools discovery and integration
+00:54:21.047 info extension stopping host
+00:54:21.089 info host removing cache folder: 826e70a18da3b583d3f75f50e20a0d65
+00:54:24.779 info extension stopping host
+00:54:25.227 info host ------------ starting ------------
+00:54:25.297 info extension host process output: port:[59653]
+00:54:25.297 info extension 
+00:54:25.322 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 59653 }
+00:54:25.495 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.361\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.37.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1728150864784}
+00:54:25.543 info host starting tools discovery and integration
+00:54:25.562 info host looking for tools to patch
+00:54:25.573 info host worker Starting Host Worker...
+00:54:25.579 info host found 0 tool file(s) to patch
+00:54:25.599 info host completed tools discovery and integration
+01:01:02.468 ERR! host uncaught exception: No clients connected
+01:05:37.581 info extension stopping host
+01:05:37.592 ERR! extension error processing message: {
+01:05:37.593 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+01:05:37.593 ERR! extension   args: [],
+01:05:37.593 ERR! extension   sequenceNumber: 0
+01:05:37.593 ERR! extension }, Canceled: Canceled
+01:05:37.610 info host removing cache folder: 365421fd3ab344333c18eaa2969853f3
+13:04:42.979 info extension stopping host
+13:04:57.363 info extension stopping host
+13:06:11.153 info extension stopping host
+13:07:07.927 info extension stopping host
+13:41:25.790 info extension stopping host
+13:50:20.122 info extension stopping host
+14:42:22.428 info extension stopping host
+15:31:21.528 info extension stopping host
+17:02:03.417 info extension stopping host
+17:12:43.781 info extension stopping host
+17:12:47.912 info extension stopping host
+17:12:48.366 info host ------------ starting ------------
+17:12:48.427 info extension host process output: port:[50804]
+17:12:48.427 info extension 
+17:12:48.460 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 50804 }
+17:12:48.624 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","10.20.27.32"],"host":"127.0.0.1","forcedStart":false,"startTime":1728468767919}
+17:12:48.667 info host starting tools discovery and integration
+17:12:48.693 info host worker Starting Host Worker...
+17:12:48.697 info host updating C:\Users\MyBook Hype AMD\.console-ninja\.bin\loader.js
+17:12:48.737 info host looking for tools to patch
+17:12:48.755 info host found 0 tool file(s) to patch
+17:12:48.777 info host completed tools discovery and integration
+17:15:59.011 info extension stopping host
+17:15:59.044 info host removing cache folder: 9bdfec2cc8a27e817d2cf698805729ea
+17:16:43.815 info extension stopping host
+08:00:51.360 info extension stopping host
+08:07:25.569 info extension stopping host
+08:13:05.876 info extension stopping host
+08:13:32.777 info extension stopping host
+08:47:38.141 info extension stopping host
+08:54:21.900 info extension stopping host
+21:09:54.681 info extension stopping host
+22:08:07.013 info extension stopping host
+22:38:12.094 info extension stopping host
+22:46:01.414 info extension stopping host
+16:11:07.994 info extension stopping host
+16:15:09.401 info extension stopping host
+16:15:12.006 info extension stopping host
+16:15:12.339 info host ------------ starting ------------
+16:15:12.421 info extension host process output: port:[53189]
+16:15:12.421 info extension 
+16:15:12.448 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 53189 }
+16:15:12.606 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","10.20.29.25"],"host":"127.0.0.1","forcedStart":false,"startTime":1728638112010}
+16:15:12.643 info host starting tools discovery and integration
+16:15:12.702 info host worker Starting Host Worker...
+16:15:12.709 info host looking for tools to patch
+16:15:12.724 info host found 0 tool file(s) to patch
+16:15:12.738 info host completed tools discovery and integration
+16:19:02.429 ERR! host uncaught exception: No clients connected
+16:40:43.061 info extension stopping host
+16:40:43.065 ERR! extension error processing message: {
+16:40:43.065 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+16:40:43.065 ERR! extension   args: [],
+16:40:43.065 ERR! extension   sequenceNumber: 0
+16:40:43.065 ERR! extension }, Canceled: Canceled
+16:40:43.084 info host removing cache folder: cdb882bb4a843c08680b16eadffa5388
+16:40:43.103 info extension client disconnected: 1006 
+16:58:42.063 info extension stopping host
+13:04:28.586 info extension stopping host
+15:45:00.650 info extension stopping host
+15:59:05.896 info extension stopping host
+17:22:04.135 info extension stopping host
+01:01:40.658 info extension stopping host
+13:54:56.841 info extension stopping host
+15:09:39.281 info extension stopping host
+15:43:06.484 info extension stopping host
+00:14:38.515 info extension stopping host
+00:14:43.411 info extension stopping host
+00:14:43.856 info host ------------ starting ------------
+00:14:43.911 info extension host process output: port:[56485]
+00:14:43.911 info extension 
+00:14:44.113 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 56485 }
+00:14:44.181 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.363\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.101.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1729098883417}
+00:14:44.225 info host starting tools discovery and integration
+00:14:44.288 info host worker Starting Host Worker...
+00:14:44.305 info host looking for tools to patch
+00:14:44.323 info host found 0 tool file(s) to patch
+00:14:44.343 info host completed tools discovery and integration
+01:32:57.797 info extension stopping host
+01:32:57.805 ERR! extension error processing message: {
+01:32:57.806 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+01:32:57.806 ERR! extension   args: [],
+01:32:57.806 ERR! extension   sequenceNumber: 0
+01:32:57.806 ERR! extension }, Canceled: Canceled
+01:32:57.831 info host removing cache folder: d756bee0121bccd390181c0032e5b6f8
+01:39:45.633 info extension stopping host
+01:46:30.625 info extension stopping host
+22:20:10.494 info extension stopping host
+15:47:39.737 info extension stopping host
+14:42:54.619 info extension stopping host
+15:10:11.469 info extension stopping host
+10:32:07.743 info extension stopping host
+04:51:33.408 info extension stopping host
+04:53:54.005 info extension stopping host
+09:28:34.305 info extension stopping host
+23:44:30.397 info extension stopping host
+23:38:09.139 info extension stopping host
+00:19:05.765 info extension stopping host
+00:19:10.118 info extension stopping host
+00:19:10.579 info host ------------ starting ------------
+00:19:10.656 info extension host process output: port:[49961]
+00:19:10.656 info extension 
+00:19:10.687 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 49961 }
+00:19:10.824 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.367","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.367\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.367\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.367\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.138.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1730999950123}
+00:19:10.870 info host starting tools discovery and integration
+00:19:10.896 info host updating C:\Users\MyBook Hype AMD\.console-ninja\.bin\loader.js
+00:19:10.918 info host worker Starting Host Worker...
+00:19:10.932 info host looking for tools to patch
+00:19:10.951 info host found 0 tool file(s) to patch
+00:19:10.969 info host completed tools discovery and integration
+00:19:58.593 info extension stopping host
+00:19:58.601 ERR! extension error processing message: {
+00:19:58.601 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+00:19:58.601 ERR! extension   args: [],
+00:19:58.601 ERR! extension   sequenceNumber: 0
+00:19:58.601 ERR! extension }, Canceled: Canceled
+16:33:49.724 info extension stopping host
+16:36:59.781 info extension stopping host
+16:52:23.956 info extension stopping host
+17:05:36.008 info extension stopping host
+22:50:38.342 info extension stopping host
+22:50:42.604 info extension stopping host
+22:50:43.057 info host ------------ starting ------------
+22:50:43.078 info host removing cache folder: 5595e4b56561f40b69a29accd8db2685
+22:50:43.126 info extension host process output: port:[52795]
+22:50:43.126 info extension 
+22:50:43.148 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 52795 }
+22:50:43.282 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.368","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.368\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.368\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.368\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.138.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1731340242610}
+22:50:43.326 info host starting tools discovery and integration
+22:50:43.356 info host updating C:\Users\MyBook Hype AMD\.console-ninja\.bin\loader.js
+22:50:43.394 info host looking for tools to patch
+22:50:43.416 info host found 0 tool file(s) to patch
+22:50:43.416 info host worker Starting Host Worker...
+22:50:43.433 info host completed tools discovery and integration
+23:04:42.599 info extension stopping host
+23:04:42.606 ERR! extension error processing message: {
+23:04:42.607 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+23:04:42.607 ERR! extension   args: [],
+23:04:42.607 ERR! extension   sequenceNumber: 0
+23:04:42.607 ERR! extension }, Canceled: Canceled
+23:04:42.634 info host removing cache folder: 64a1f86a66bbfa01c5f6c73061bde711
+15:39:49.328 info extension stopping host
+17:17:49.416 info extension stopping host
+16:12:17.484 info extension stopping host
+12:54:37.472 info extension stopping host
+14:26:22.293 info extension stopping host
+23:36:04.375 info extension stopping host
+23:36:57.619 info extension stopping host
+23:37:37.862 info extension stopping host
+23:34:46.751 info extension stopping host
+09:35:19.619 info extension stopping host
+10:54:16.488 info extension stopping host
+16:40:23.823 info extension stopping host
+16:40:04.031 info extension stopping host
+21:19:49.546 info extension stopping host
+11:06:31.359 info extension stopping host
+11:07:01.995 info extension stopping host
+16:20:01.486 info extension stopping host
+00:35:28.743 info extension stopping host
+23:51:49.433 info extension stopping host
+00:28:15.722 info extension stopping host
+00:48:40.443 info extension stopping host
+00:50:12.721 info extension stopping host
+00:51:19.003 info extension stopping host
+23:58:44.344 info extension stopping host
+00:39:49.222 info extension stopping host
+14:59:03.562 info extension stopping host
+16:09:17.154 info extension stopping host
+16:09:25.089 info extension stopping host
+16:09:25.097 info extension Console Ninja extension version: 1.0.381
+16:09:25.838 info host ------------ starting ------------
+16:09:25.921 info extension host process output: port:[61315]
+16:09:25.922 info extension 
+16:09:25.989 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 61315 }
+16:09:26.189 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.118.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1737104965096}
+16:09:26.250 info host starting tools discovery and integration
+16:09:26.291 info host updating C:\Users\MyBook Hype AMD\.console-ninja\.bin\loader.js
+16:09:26.364 info host looking for tools to patch
+16:09:26.390 info host found 0 tool file(s) to patch
+16:09:26.392 info host worker Starting Host Worker...
+16:09:26.415 info host completed tools discovery and integration
+16:09:51.737 WARN host No clients connected
+16:16:07.710 WARN host No clients connected
+16:22:37.101 WARN host No clients connected
+17:06:04.945 info extension stopping host
+17:06:04.960 ERR! extension error processing message: {
+17:06:04.960 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+17:06:04.960 ERR! extension   args: [],
+17:06:04.960 ERR! extension   sequenceNumber: 0
+17:06:04.960 ERR! extension }, Canceled: Canceled
+17:06:05.004 info host removing cache folder: dfdfb0eb6c5b26676919cec67043392b
+19:44:58.935 info extension stopping host
+00:46:47.082 info extension stopping host
+01:54:03.593 info extension stopping host
+21:10:38.447 info extension stopping host
+21:10:44.147 info extension stopping host
+21:10:44.156 info extension Console Ninja extension version: 1.0.381
+21:10:44.900 info host ------------ starting ------------
+21:10:45.057 info extension host process output: port:[60828]
+21:10:45.057 info extension 
+21:10:45.156 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 60828 }
+21:10:45.384 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.118.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1737209444155}
+21:10:45.444 info host starting tools discovery and integration
+21:10:45.482 info host worker Starting Host Worker...
+21:10:45.522 info host looking for tools to patch
+21:10:45.548 info host found 0 tool file(s) to patch
+21:10:45.573 info host completed tools discovery and integration
+21:11:05.620 info extension stopping host
+21:11:05.630 ERR! extension error processing message: {
+21:11:05.630 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+21:11:05.630 ERR! extension   args: [],
+21:11:05.630 ERR! extension   sequenceNumber: 0
+21:11:05.630 ERR! extension }, Canceled: Canceled
+21:11:11.054 info extension stopping host
+21:11:11.064 info extension Console Ninja extension version: 1.0.381
+21:11:11.658 info host ------------ starting ------------
+21:11:11.782 info extension host process output: port:[55109]
+21:11:11.783 info extension 
+21:11:11.818 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 55109 }
+21:11:12.039 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.118.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1737209471064}
+21:11:12.094 info host starting tools discovery and integration
+21:11:12.113 info host looking for tools to patch
+21:11:12.120 info host worker Starting Host Worker...
+21:11:12.138 info host found 0 tool file(s) to patch
+21:11:12.163 info host completed tools discovery and integration
+21:11:17.985 info extension stopping host
+21:11:17.992 ERR! extension error processing message: {
+21:11:17.992 ERR! extension   method: 'requestedFeaturesAreNotAvailable',
+21:11:17.992 ERR! extension   args: [],
+21:11:17.992 ERR! extension   sequenceNumber: 0
+21:11:17.992 ERR! extension }, Canceled: Canceled
+21:12:26.950 info extension stopping host
+21:13:27.884 info extension stopping host
+21:18:14.557 info extension stopping host
+00:00:00.699 info extension stopping host
+12:10:19.235 info extension stopping host
+17:17:06.812 info extension stopping host
+23:11:01.019 info extension stopping host
+23:51:04.376 info extension stopping host
+17:14:30.165 info extension stopping host
+17:14:30.177 info extension Console Ninja extension version: 1.0.381
+17:14:30.911 info host ------------ starting ------------
+17:14:30.937 info host removing cache folder: 5d346a438f84fdff3f97d6c389d02de8
+17:14:30.940 info host removing cache folder: f5d69a65530bb92c2afa6b31ffa3f479
+17:14:31.004 info extension host process output: port:[50316]
+17:14:31.004 info extension 
+17:14:31.063 info host client connected: extension { address: '127.0.0.1', family: 'IPv4', port: 50316 }
+17:14:31.376 info host starting host: {"extensionFolder":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381","runtimeHookFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\errorHandler.js","networkLoggingHandlerFile":"c:\\Users\\MyBook Hype AMD\\.vscode\\extensions\\wallabyjs.console-ninja-1.0.381\\out\\runtimeHook\\networkLoggingHandler.js","filesToInstrument":[],"debug":false,"config":{"dateTimeFormat":"HH:mm:ss.SSS","dateTimeDisplayMode":"Absolute","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"showWelcomeMessageInTools":true,"fontSize":10,"outputMode":"Beside File","captureFunctions":false,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","angular","jest","webpack","next.js","nest.js","cypress","http-server","serve","live-server","nuxt","remix","qwik","hydrogen","serverless","astro"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false,"showLogsFromMultipleRunningToolsTogether":false,"predictiveLoggingEnabled":true,"allowConsoleLogToTriggerPredictions":false,"showNetworkRequests":true},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","MyBookHype","192.168.118.181"],"host":"127.0.0.1","forcedStart":false,"startTime":1737368070177}
+17:14:31.379 info host worker Starting Host Worker...
+17:14:31.436 info host starting tools discovery and integration
+17:14:31.521 info host looking for tools to patch
+17:14:31.557 info host found 0 tool file(s) to patch
+17:14:31.567 info host completed tools discovery and integration
